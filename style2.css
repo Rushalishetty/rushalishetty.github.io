@@ -1,0 +1,36 @@
+.aside .logo a::before{
+  border-top: 4px solid #ec1839;
+  border-left: 4px solid #ec1839;
+}
+
+.aside .logo a::after{
+  border-right: 4px solid #ec1839;
+  border-bottom: 4px solid #ec1839;
+}
+
+.lightbox .lightbox-controls .prev-items .fa,
+.lightbox .lightbox-controls .next-items .fa,
+.about .about-content .about-text h3 span,
+.certificate .certificate-item .certificate-info .icon .fa,
+.certificate .certificate-filter button.active,
+.aside .nav li a:hover,
+.aside .nav li a.active{
+  color: #ec1839;
+}
+
+.about .about-content .timeline .circle-dot,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-link a{
+  background-color: #ec1839;
+}
+
+.certificate .certificate-filter button.active{
+  border-color: #ec1839;
+}
